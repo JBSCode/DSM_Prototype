@@ -20,6 +20,8 @@
 // http://en.wikipedia.org/wiki/DMX512#Protocol
 
 // a comment for testing
+// My comment is much better because it has CAPS!!11!!!11!
+
 
 class testApp : public ofBaseApp{
 
