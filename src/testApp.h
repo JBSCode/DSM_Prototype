@@ -19,6 +19,7 @@
 // This is enough data for a full frame DMX message (512 channels)
 // http://en.wikipedia.org/wiki/DMX512#Protocol
 
+// a comment for testing
 
 class testApp : public ofBaseApp{
 
