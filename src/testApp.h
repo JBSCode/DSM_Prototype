@@ -28,7 +28,7 @@ class testApp : public ofBaseApp{
 	public:
 		void setup();
 		void update();
-		void draw();
+		void paw();
         void drawColumns();
         void drawColumn( int id );
 		void exit();
