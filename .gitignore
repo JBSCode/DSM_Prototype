@@ -3,6 +3,7 @@ bin/*.app
 */xcuserdata
 */*/xcuserdata
 */*/*/xcuserdata
+*/*.xcworkspacedata
 *.swp
 */*/*/*.swp
 */*/*/*/*.swp
@@ -20,11 +21,9 @@ bin/*.exp
 bin/*.ilk
 bin/*.lib
 bin/*.pdb
-bin/data/test.mov
-bin/data/settings.xml
 */libs/armeabi*
 */bin/*
 !*/bin/data
 */gen
 */jni
-*/res/raw
+*/res/raw	
